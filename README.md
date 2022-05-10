@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**MagdielGrande/MagdielGrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">Magdiel Grande <a href="https://twitter.com/leidgam_mag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MagdielGrande" height="50" width="50" /> </h1>
+<h3 align="center"> Developer | Mexican 🇲🇽 </h3>
+  
+```javascript
+  console.log("Hola Mundo");
+```
+  
+### About me
+  
+  - I studied Informatics Engineering at UTC 💻
+  - I'm studying English at Pimex Online 🤝
