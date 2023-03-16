@@ -8,4 +8,3 @@
 ### About me
   
   - I studied Informatics Engineering at UTC 💻
-  - I'm studying English at Pimex Online 🤝
