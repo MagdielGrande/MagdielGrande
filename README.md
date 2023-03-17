@@ -5,6 +5,6 @@
   console.log("Hola Mundo");
 ```
   
-### About me
+# Bienvenido/a a mi perfil de Github
   
   - I studied Informatics Engineering at UTC 💻
